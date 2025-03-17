@@ -1,2 +1,2 @@
 # Olabanji-s-Portfolio
-Analytics Portfolo
+Analytics Portfolio
